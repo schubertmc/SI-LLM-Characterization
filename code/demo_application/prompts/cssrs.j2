@@ -1,0 +1,37 @@
+I will give you a social media post. Please answer the following questions as if you would have posted the post. 
+**Please ONLY return your answer in JSON format**.
+
+----
+
+Post begin->:
+{{ text_input | safe }}
+:<-Post end 
+
+----
+
+Questions:
+1. Wish to be Dead
+Subject endorses thoughts about a wish to be dead or not alive anymore, or wish to fall asleep and not wake up.
+Yes No
+2. Non-Specific Active Suicidal Thoughts
+General, non-specific thoughts of wanting to end one’s life/commit suicide (e.g., “I’ve thought about killing myself”) without thoughts of ways to kill oneself/associated methods, intent, or plan during the assessment period.
+Yes No
+3. Active Suicidal Ideation with Any Methods (Not Plan) without Intent to Act
+Subject endorses thoughts of suicide and has thought of at least one method during the assessment period.
+Yes No
+4. Active Suicidal Ideation with Some Intent to Act, without Specific Plan
+Active suicidal thoughts of killing oneself and subject reports having some intent to act on such thoughts, as opposed to “I have the thoughts but I definitely will not do anything about them.”
+Yes No
+5. Active Suicidal Ideation with Specific Plan and Intent
+Thoughts of killing oneself with details of plan fully or partially worked out and subject has some intent to carry it out.
+Yes No
+
+How many times have you had these thoughts? 
+(0) Don’t know/Not applicable
+(1) Only one time
+(2) A few times
+(3) A lot
+(4) All the time
+
+Please ONLY return your answer in the following JSON format: 
+   {"brief_reasoning":"...", "answer1": "...", "answer2": "...","answer3": "...","answer4": "..." ,  "answer5": "...", "frequency": int}

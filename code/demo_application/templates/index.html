@@ -1,0 +1,319 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CSSRS Evaluation</title>
+    <style>
+        body {
+            font-family: 'Helvetica Neue', Arial, sans-serif;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            margin: 0;
+            padding: 40px;
+            background-color: #f3f4f6;
+            color: #333;
+        }
+
+        h1 {
+            font-size: 2rem;
+            color: #333;
+            margin-bottom: 20px;
+        }
+
+        form {
+            margin-bottom: 30px;
+            text-align: center;
+            width: 100%;
+            max-width: 400px;
+        }
+
+        #text_input {
+            width: 100%;
+            height: 80px;
+            padding: 10px;
+            font-size: 1rem;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            margin-bottom: 15px;
+            resize: none;
+            box-sizing: border-box;
+        }
+
+        button {
+            padding: 10px 20px;
+            font-size: 1rem;
+            background-color: #4CAF50;
+            color: #fff;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            transition: background-color 0.3s ease;
+        }
+
+        button:hover {
+            background-color: #45a049;
+        }
+
+        .square-container {
+            display: flex;
+            gap: 15px;
+            margin-bottom: 20px;
+        }
+
+        .square {
+            width: 50px;
+            height: 50px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-weight: bold;
+            color: #fff;
+            background-color: #ccc;
+            border-radius: 10px;
+            transition: background-color 0.5s ease;
+            font-size: 1.1rem;
+        }
+
+        .square.true {
+            background-color: #e63946;
+        }
+
+        .square.false {
+            background-color: #2a9d8f;
+        }
+
+        .freq-bar {
+            display: flex;
+            gap: 8px;
+            margin-top: 10px;
+        }
+
+        .freq-bar div {
+            width: 25px;
+            height: 25px;
+            background-color: #ddd;
+            border-radius: 5px;
+            transition: background-color 0.3s ease;
+        }
+
+        .freq-bar div.active {
+            background-color: #4CAF50;
+        }
+
+        .clusters-result {
+            margin-top: 20px;
+            width: 100%;
+            max-width: 400px;
+        }
+
+        .cluster {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            margin-bottom: 15px;
+            font-size: 1rem;
+        }
+
+        .cluster-label {
+            flex: 1;
+            text-align: left;
+            color: #333;
+        }
+
+        .cluster-bar {
+            flex: 1;
+            height: 25px;
+            background-color: #ddd;
+            border-radius: 5px;
+            overflow: hidden;
+            position: relative;
+        }
+
+        .cluster-bar .fill {
+            height: 100%;
+            background-color: #4CAF50;
+            transition: width 0.3s ease;
+            position: absolute;
+            top: 0;
+            left: 0;
+        }
+
+        .features-result {
+            margin-top: 20px;
+            width: 100%;
+            max-width: 400px;
+        }
+
+        .feature {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            margin-bottom: 15px;
+            font-size: 1rem;
+        }
+
+        .feature-label {
+            flex: 1.5;
+            text-align: left;
+            color: #333;
+        }
+
+        .rating-bar {
+            display: flex;
+            gap: 5px;
+            flex: 1;
+        }
+
+        .rating-bar div {
+            width: 33%;
+            height: 25px;
+            background-color: #ddd;
+            border-radius: 5px;
+            transition: background-color 0.3s ease;
+        }
+
+        .rating-bar div.active {
+            background-color: #4CAF50;
+        }
+    </style>
+</head>
+
+<body>
+    <h1>Enter Text to Evaluate</h1>
+    <form id="evaluateForm">
+        <label for="text_input">Text Input:</label>
+        <br>
+        <textarea id="text_input" name="text_input" required></textarea>
+        <br>
+        <button type="submit">Evaluate</button>
+    </form>
+    <h2>CSSRS Questions</h2>
+    <div id="result">
+        <div class="square-container" id="squareContainer">
+            <div class="square" title="Wish to be Dead">1</div>
+            <div class="square" title="Non-Specific Active Suicidal Thoughts">2</div>
+            <div class="square" title="Active Suicidal Ideation with Any Methods (Not Plan) without Intent to Act">3</div>
+            <div class="square" title="Active Suicidal Ideation with Some Intent to Act, without Specific Plan">4</div>
+            <div class="square" title="Active Suicidal Ideation with Specific Plan and Intent">5</div>
+        </div>
+        <div class="freq-bar" id="freqBar">
+            <span>Frequency:</span>
+            <div class="square" title="Only one time">1</div>
+            <div class="square" title="A few times">2</div>
+            <div class="square" title="A lot">3</div>
+            <div class="square" title="All the time">4</div>
+        </div>
+    </div>
+
+    <h2>Clusters</h2>
+    <div id="clustersResult" class="clusters-result"></div>
+    <h2>Features</h2>
+    <div id="featuresResult" class="features-result"></div>
+</body>
+
+<script>
+    document.getElementById('evaluateForm').addEventListener('submit', async function (event) {
+        event.preventDefault();
+
+        const textInput = document.getElementById('text_input').value;
+
+        // Clear previous results
+        document.getElementById('clustersResult').innerHTML = '';
+        document.getElementById('featuresResult').innerHTML = '';
+        document.querySelectorAll('#squareContainer .square').forEach(square => {
+            square.classList.remove('true', 'false');
+        });
+        document.querySelectorAll('#freqBar div').forEach(segment => {
+            segment.classList.remove('active');
+        });
+
+        // Fetch CSSRS results
+        const cssrsResponse = await fetch('./evaluate_cssrs', {
+            method: 'POST',
+            headers: {
+                'Content-Type': 'application/json'
+            },
+            body: JSON.stringify({ text_input: textInput })
+        });
+        const cssrsResult = await cssrsResponse.json();
+
+        // Update CSSRS squares
+        const squares = document.querySelectorAll('#squareContainer .square');
+        squares.forEach((square, index) => {
+            setTimeout(() => {
+                square.classList.add(cssrsResult[`answer${index + 1}`] ? 'true' : 'false');
+            }, index * 100);
+        });
+
+        // Update frequency segments
+        const segments = document.querySelectorAll('#freqBar div');
+        segments.forEach((segment, index) => {
+            setTimeout(() => {
+                if (index < cssrsResult['freq']) {
+                    segment.classList.add('active');
+                }
+            }, index * 100);
+        });
+
+        // Fetch Features and Cluster results
+        const featuresResponse = await fetch('./evaluate_features', {
+            method: 'POST',
+            headers: {
+                'Content-Type': 'application/json'
+            },
+            body: JSON.stringify({ text_input: textInput })
+        });
+        const featuresResult = await featuresResponse.json();
+
+        // Update Cluster bars
+        const clustersContainer = document.getElementById('clustersResult');
+        Object.entries(featuresResult.cluster).forEach(([clusterName, clusterValue]) => {
+            const clusterElement = document.createElement('div');
+            clusterElement.className = 'cluster';
+
+            const label = document.createElement('div');
+            label.className = 'cluster-label';
+            label.textContent = "Cluster " + clusterName;
+            clusterElement.appendChild(label);
+
+            const bar = document.createElement('div');
+            bar.className = 'cluster-bar';
+            bar.title = clusterValue;
+            const fill = document.createElement('div');
+            fill.className = 'fill';
+            fill.style.width = `${(clusterValue / 4) * 100}%`;
+            bar.appendChild(fill);
+            clusterElement.appendChild(bar);
+
+            clustersContainer.appendChild(clusterElement);
+        });
+
+        // Update Features
+        const featuresContainer = document.getElementById('featuresResult');
+        Object.entries(featuresResult.features).forEach(([featureName, rating]) => {
+            const featureElement = document.createElement('div');
+            featureElement.className = 'feature';
+
+            const label = document.createElement('div');
+            label.className = 'feature-label';
+            label.textContent = featureName.replace(/_/g, ' ');
+            featureElement.appendChild(label);
+
+            const ratingBar = document.createElement('div');
+            ratingBar.className = 'rating-bar';
+            for (let i = 1; i < 4; i++) {
+                const barSegment = document.createElement('div');
+                barSegment.className = i <= rating ? 'active' : '';
+                ratingBar.appendChild(barSegment);
+            }
+            featureElement.appendChild(ratingBar);
+
+            featuresContainer.appendChild(featureElement);
+        });
+    });
+</script>
+
+</html>

@@ -1,0 +1,20 @@
+Evaluate the features for the following post. Rate each feature on the scale defined in "rating_options" as integers.
+**Please ONLY return your answer in JSON format**.
+
+---
+
+Post begin->:
+{{ text_input | safe }}
+:<-Post end 
+
+---
+
+Feature list begin->:
+{{ features | safe }}
+:<-Feature list end
+
+Please ONLY return your answer in the following JSON format: 
+{
+    "<feature_name (str)>": <rating (int)>,
+    ...
+}

@@ -1,0 +1,116 @@
+,category,featurename,short_description,rating,feature_id
+0,tone,Desperation,The level of urgency and hopelessness in the text,"none, low, medium, high (0-3)",tone_Desperation
+1,tone,Hopelessness,The level of pessimism and lack of optimism in the text,"none, low, medium, high (0-3)",tone_Hopelessness
+2,tone,Anger,The level of anger and frustration in the text,"none, low, medium, high (0-3)",tone_Anger
+3,tone,Sadness,The level of sadness and emotional pain in the text,"none, low, medium, high (0-3)",tone_Sadness
+4,tone,Frustration,The level of frustration and irritation in the text,"none, low, medium, high (0-3)",tone_Frustration
+5,tone,Honesty,The level of openness and sincerity in the text,"none, low, medium, high (0-3)",tone_Honesty
+6,tone,Vulnerability,The level of openness and willingness to be hurt in the text,"none, low, medium, high (0-3)",tone_Vulnerability
+7,tone,Help-seeking,The level of seeking help and support in the text,"none, low, medium, high (0-3)",tone_Help-seeking
+8,tone,Self-blame,The level of self-criticism and self-blame in the text,"none, low, medium, high (0-3)",tone_Self-blame
+9,tone,Hopefulness,The level of optimism and positivity in the text,"none, low, medium, high (0-3)",tone_Hopefulness
+10,tone,Emotional intensity,The level of emotional intensity and passion in the text,"none, low, medium, high (0-3)",tone_Emotional_intensity
+11,tone,Certainty,The level of confidence and certainty in the text,"none, low, medium, high (0-3)",tone_Certainty
+12,tone,Uncertainty,The level of doubt and uncertainty in the text,"none, low, medium, high (0-3)",tone_Uncertainty
+13,tone,Self-reflection,The level of self-awareness and introspection in the text,"none, low, medium, high (0-3)",tone_Self-reflection
+14,tone,Seeking advice,The level of seeking advice and guidance in the text,"none, low, medium, high (0-3)",tone_Seeking_advice
+15,tone,Despair,The level of hopelessness and desperation in the text,"none, low, medium, high (0-3)",tone_Despair
+16,tone,Suicidal thoughts,The level of suicidal thoughts and ideation in the text,"none, low, medium, high (0-3)",tone_Suicidal_thoughts
+17,tone,Self-criticism,The level of self-criticism and self-blame in the text,"none, low, medium, high (0-3)",tone_Self-criticism
+18,tone,Self-acceptance,The level of self-acceptance and self-compassion in the text,"none, low, medium, high (0-3)",tone_Self-acceptance
+19,tone,Emotional expression,The level of emotional expression and openness in the text,"none, low, medium, high (0-3)",tone_Emotional_expression
+20,tone,Neutrality,The level of neutrality and objectivity in the text,"none, low, medium, high (0-3)",tone_Neutrality
+21,tone,Certainty of outcome,The level of confidence in the outcome or resolution in the text,"none, low, medium, high (0-3)",tone_Certainty_of_outcome
+22,tone,Emotional tone,The overall emotional tone of the text,"none, low, medium, high (0-3)",tone_Emotional_tone
+23,tone,Self-blame vs. self-acceptance,The balance between self-blame and self-acceptance in the text,"none, low, medium, high (0-3)",tone_Self-blame_vs._self-acceptance
+24,tone,Hope vs. despair,The balance between hope and despair in the text,"none, low, medium, high (0-3)",tone_Hope_vs._despair
+25,tone,Certainty vs. uncertainty,The balance between certainty and uncertainty in the text,"none, low, medium, high (0-3)",tone_Certainty_vs._uncertainty
+26,tone,Emotional intensity vs. emotional restraint,The balance between emotional intensity and emotional restraint in the text,"none, low, medium, high (0-3)",tone_Emotional_intensity_vs._emotional_restraint
+0,purpose,Seeking Help or Support,Expressing a need for assistance or emotional support,"none, low, medium, high (0-3)",purpose_Seeking_Help_or_Support
+1,purpose,Expressing Emotions,"Sharing feelings, thoughts, or experiences","none, low, medium, high (0-3)",purpose_Expressing_Emotions
+2,purpose,Seeking Validation or Connection,"Desiring understanding, empathy, or a sense of belonging","none, low, medium, high (0-3)",purpose_Seeking_Validation_or_Connection
+3,purpose,Sharing Personal Experience,"Sharing a personal story, struggle, or achievement","none, low, medium, high (0-3)",purpose_Sharing_Personal_Experience
+4,purpose,Seeking Advice or Information,"Requesting guidance, knowledge, or insight","none, low, medium, high (0-3)",purpose_Seeking_Advice_or_Information
+5,purpose,Expressing Frustration or Anger,"Conveying negative emotions, possibly seeking release or catharsis","none, low, medium, high (0-3)",purpose_Expressing_Frustration_or_Anger
+6,purpose,Unclear or Ambiguous,Lacking a clear purpose or intent,"none, low, medium, high (0-3)",purpose_Unclear_or_Ambiguous
+7,purpose,Suicidal or Self-Harm,Expressing a desire to end one's life or harm oneself,high (1-3),purpose_Suicidal_or_Self-Harm
+8,purpose,Seeking Reassurance or Validation,Desiring confirmation or approval of one's thoughts or feelings,"none, low, medium, high (0-3)",purpose_Seeking_Reassurance_or_Validation
+9,purpose,Sharing a Personal Desire or Need,Expressing a personal want or requirement,"none, low, medium, high (0-3)",purpose_Sharing_a_Personal_Desire_or_Need
+10,purpose,Self-Reflection or Questioning,"Examining one's thoughts, feelings, or actions","none, low, medium, high (0-3)",purpose_Self-Reflection_or_Questioning
+0,language,Language Formality,The level of formality in the language used,"none, low, medium, high (0-3)",language_Language_Formality
+1,language,Language Profanity,The presence and intensity of profanity in the language used,"none, mild, strong (0-2)",language_Language_Profanity
+2,language,Language Emotional Intensity,The level of emotional intensity in the language used,"low, medium, high (0-2)",language_Language_Emotional_Intensity
+3,language,Language Clarity,The clarity and concision of the language used,"simple, complex (0-1)",language_Language_Clarity
+4,language,Language Tone,The overall tone of the language used,"positive, neutral, negative (0-2)",language_Language_Tone
+5,language,Language Structure,The level of structure and coherence in the language used,"simple, complex (0-1)",language_Language_Structure
+6,language,Language Colloquiality,The use of colloquial expressions and slang in the language used,"none, mild, strong (0-2)",language_Language_Colloquiality
+7,language,Language Suicidal Content,The presence of suicidal thoughts or language in the text,"none, mild, strong (0-2)",language_Language_Suicidal_Content
+8,language,Language Help-Seeking,The presence of language indicating a desire for help or support,"none, mild, strong (0-2)",language_Language_Help-Seeking
+0,emotionalstate,Emotional Numbness,A state of emotional numbness and acceptance of death,"none, low, medium, high (0-3)",emotionalstate_Emotional_Numbness
+1,emotionalstate,Hopelessness,"Feeling hopeless, without a sense of purpose or direction","none, low, medium, high (0-3)",emotionalstate_Hopelessness
+2,emotionalstate,Anxiety,"A feeling of worry, nervousness, or apprehension","none, low, medium, high (0-3)",emotionalstate_Anxiety
+3,emotionalstate,Depression,"A state of low mood, sadness, and loss of interest in activities","none, low, medium, high (0-3)",emotionalstate_Depression
+4,emotionalstate,Desperation,"A feeling of intense emotional distress, often accompanied by a sense of hopelessness","none, low, medium, high (0-3)",emotionalstate_Desperation
+5,emotionalstate,Regret,A feeling of sadness or guilt about past actions or decisions,"none, low, medium, high (0-3)",emotionalstate_Regret
+6,emotionalstate,Self-Awareness,"A state of being aware of one's emotions, thoughts, and behaviors","none, low, medium, high (0-3)",emotionalstate_Self-Awareness
+7,emotionalstate,Uncertainty,A feeling of doubt or uncertainty about the future or a situation,"none, low, medium, high (0-3)",emotionalstate_Uncertainty
+8,emotionalstate,Frustration,A feeling of anger or annoyance caused by a perceived obstacle or difficulty,"none, low, medium, high (0-3)",emotionalstate_Frustration
+9,emotionalstate,Anger,A strong feeling of displeasure or hostility,"none, low, medium, high (0-3)",emotionalstate_Anger
+10,emotionalstate,Sadness,A feeling of sorrow or unhappiness,"none, low, medium, high (0-3)",emotionalstate_Sadness
+11,emotionalstate,Self-Pity,"A feeling of self-sympathy or self-compassion, often accompanied by a sense of helplessness","none, low, medium, high (0-3)",emotionalstate_Self-Pity
+12,emotionalstate,Self-Loathing,A feeling of intense self-disgust or self-hatred,"none, low, medium, high (0-3)",emotionalstate_Self-Loathing
+13,emotionalstate,Insecurity,A feeling of uncertainty or doubt about one's abilities or worth,"none, low, medium, high (0-3)",emotionalstate_Insecurity
+14,emotionalstate,Inadequacy,A feeling of being insufficient or inadequate,"none, low, medium, high (0-3)",emotionalstate_Inadequacy
+15,emotionalstate,Trauma,A feeling of intense emotional pain or distress caused by a traumatic event,"none, low, medium, high (0-3)",emotionalstate_Trauma
+16,emotionalstate,Euphoria,A feeling of intense happiness or excitement,"none, low, medium, high (0-3)",emotionalstate_Euphoria
+17,emotionalstate,Triumph,A feeling of pride or accomplishment,"none, low, medium, high (0-3)",emotionalstate_Triumph
+18,emotionalstate,Love,A strong feeling of affection or attachment,"none, low, medium, high (0-3)",emotionalstate_Love
+19,emotionalstate,Hope,A feeling of optimism or expectation of a positive outcome,"none, low, medium, high (0-3)",emotionalstate_Hope
+20,emotionalstate,Neutrality,A state of emotional balance or indifference,"none, low, medium, high (0-3)",emotionalstate_Neutrality
+0,content,Suicidal Thoughts,Expressing thoughts or plans of self-harm or death,"none, low, medium, high (0-3)",content_Suicidal_Thoughts
+1,content,Mental Health Struggles,"Discussing or expressing difficulties with mental health, including anxiety, depression, or other conditions","none, low, medium, high (0-3)",content_Mental_Health_Struggles
+2,content,Emotional Distress,"Expressing feelings of sadness, hopelessness, or emotional pain","none, low, medium, high (0-3)",content_Emotional_Distress
+3,content,Personal Struggle,"Discussing or expressing difficulties with personal issues, such as relationships, health, or self-doubt","none, low, medium, high (0-3)",content_Personal_Struggle
+4,content,Specificity,The level of detail and specificity in the content,"vague, simple, detailed (0-2)",content_Specificity
+5,content,Emotional Intensity,The level of emotional intensity or raw emotion expressed in the content,"low, medium, high (0-2)",content_Emotional_Intensity
+6,content,Request for Help,"Asking for advice, support, or guidance on a personal issue","none, low, medium, high (0-3)",content_Request_for_Help
+7,content,Self-Reflection,"Reflecting on personal experiences, emotions, or behaviors","none, low, medium, high (0-3)",content_Self-Reflection
+8,content,Specific Issue Focus,"Focusing on a specific issue or problem, such as relationships, health, or work","none, low, medium, high (0-3)",content_Specific_Issue_Focus
+0,mentalhealth,Suicidal Thoughts,Expressing thoughts of ending one's life or self-harm,"none, low, medium, high (0-3)",mentalhealth_Suicidal_Thoughts
+1,mentalhealth,Depression,"Experiencing feelings of sadness, hopelessness, and low self-esteem","none, low, medium, high (0-3)",mentalhealth_Depression
+2,mentalhealth,Anxiety,"Experiencing feelings of worry, fear, or apprehension","none, low, medium, high (0-3)",mentalhealth_Anxiety
+3,mentalhealth,Low Self-Esteem,"Experiencing feelings of worthlessness, self-doubt, or self-hatred","none, low, medium, high (0-3)",mentalhealth_Low_Self-Esteem
+4,mentalhealth,Mental Health Crisis,"Experiencing a high risk of mental health crisis, including suicidal thoughts, self-harm, or desperation","none, low, medium, high (0-3)",mentalhealth_Mental_Health_Crisis
+5,mentalhealth,Lack of Support,"Experiencing a lack of support from family, friends, or partner","none, low, medium, high (0-3)",mentalhealth_Lack_of_Support
+6,mentalhealth,Mental Health Treatment Seeking,Seeking help or treatment for mental health issues,"none, low, medium, high (0-3)",mentalhealth_Mental_Health_Treatment_Seeking
+7,mentalhealth,Substance Abuse,Using substances to cope with mental health symptoms,"none, low, medium, high (0-3)",mentalhealth_Substance_Abuse
+8,mentalhealth,Bipolar Disorder,"Experiencing symptoms of bipolar disorder, including mania or depression","none, low, medium, high (0-3)",mentalhealth_Bipolar_Disorder
+9,mentalhealth,Anxiety Disorder,"Experiencing symptoms of anxiety disorder, including generalized anxiety or OCD","none, low, medium, high (0-3)",mentalhealth_Anxiety_Disorder
+10,mentalhealth,Mental Health Awareness,Expressing awareness or understanding of mental health issues,"none, low, medium, high (0-3)",mentalhealth_Mental_Health_Awareness
+0,relationships,Social Isolation,"Feeling disconnected from others, lacking social connections","none, low, medium, high (0-3)",relationships_Social_Isolation
+1,relationships,Emotional Support Received,Receiving emotional support and care from others,"none, low, medium, high (0-3)",relationships_Emotional_Support_Received
+2,relationships,Relationship Quality,"The quality of a romantic relationship, including feelings of security and uncertainty","poor, fair, good, excellent (0-3)",relationships_Relationship_Quality
+3,relationships,Family Estrangement,Feeling disconnected or rejected by family members,"none, low, medium, high (0-3)",relationships_Family_Estrangement
+4,relationships,Relationship Difficulty,Difficulty forming and maintaining relationships due to various reasons,"none, low, medium, high (0-3)",relationships_Relationship_Difficulty
+5,relationships,Burden to Others,Feeling like a burden to family members or others,"none, low, medium, high (0-3)",relationships_Burden_to_Others
+6,relationships,Addiction and Mental Health Impact,Impact of addiction and depression on forming and maintaining relationships,"none, low, medium, high (0-3)",relationships_Addiction_and_Mental_Health_Impact
+7,relationships,Family Involvement,"Involvement of family members in relationships, including in-laws and extended family","none, low, medium, high (0-3)",relationships_Family_Involvement
+0,length,Length,The overall length of the text,"short, medium, long (0-2)",length_Length
+1,length,Conciseness,The text's ability to convey information in a brief manner,"low, medium, high (0-2)",length_Conciseness
+2,length,Detail,The level of detail provided in the text,"low, medium, high (0-2)",length_Detail
+3,length,Narrativity,The presence of a personal story or anecdote in the text,"none, present (0-1)",length_Narrativity
+4,length,Paragraphs,The number of paragraphs in the text,"single, multiple (0-1)",length_Paragraphs
+0,request,Request_for_Emotional_Support,Desire for someone to listen and show empathy,"none, low, medium, high (0-3)",request_Request_for_Emotional_Support
+1,request,Request_for_Belief_and_Support,Desire for partner to believe in and support them,"none, low, medium, high (0-3)",request_Request_for_Belief_and_Support
+2,request,Request_for_Advice,Asks for advice or guidance,"none, low, medium, high (0-3)",request_Request_for_Advice
+3,request,Request_for_Help,Asks for assistance or support,"none, low, medium, high (0-3)",request_Request_for_Help
+4,request,Request_for_Uplifting_Feedback,Asks for positive feedback or help in dealing with past experiences,"none, low, medium, high (0-3)",request_Request_for_Uplifting_Feedback
+5,request,Request_for_Specific_Action,Asks for a specific action or outcome (e.g. work-from-home opportunities),"none, low, medium, high (0-3)",request_Request_for_Specific_Action
+6,request,Request_for_Closure,Asks to be left alone or have closure,"none, low, medium, high (0-3)",request_Request_for_Closure
+0,specifics,Specificity of Struggles,Mentions specific personal struggles or details,"none, low, medium, high (0-3)",specifics_Specificity_of_Struggles
+1,specifics,Mention of Mental Health Issues,"Mentions mental health issues such as anxiety, depression, suicidal thoughts, etc.","none, low, medium, high (0-3)",specifics_Mention_of_Mental_Health_Issues
+2,specifics,Mention of Substance Abuse,Mentions substance abuse or addiction,"none, low, medium, high (0-3)",specifics_Mention_of_Substance_Abuse
+3,specifics,Mention of Specific Life Events,Mentions specific life events or experiences,"none, low, medium, high (0-3)",specifics_Mention_of_Specific_Life_Events
+4,specifics,Mention of Relationship Issues,Mentions relationship problems or issues,"none, low, medium, high (0-3)",specifics_Mention_of_Relationship_Issues
+5,specifics,Mention of Specific Emotions or Feelings,"Mentions specific emotions or feelings such as anxiety, fear, etc.","none, low, medium, high (0-3)",specifics_Mention_of_Specific_Emotions_or_Feelings
+6,specifics,Mention of Specific Situations or Problems,Mentions specific situations or problems,"none, low, medium, high (0-3)",specifics_Mention_of_Specific_Situations_or_Problems

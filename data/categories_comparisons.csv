@@ -1,0 +1,625 @@
+,Category,Post 1,Post 2
+0,mental health,"self-harm, depression, suicidal thoughts, lack of support from partner","addiction, relapse, lack of support from partner, low self-esteem"
+1,tone,"desperate, sad, hopeless, angry","sad, hurt, frustrated, angry"
+2,relationship,"abusive partner, lack of support, feeling trapped","partner struggling with addiction, feeling unloved and untrusted"
+3,language,"suicidal language, self-blame, feeling worthless","self-blame, feeling unloved, using strong language"
+4,request,desire for someone to listen and show empathy,desire for partner to believe in and support them
+5,tone,Angry and frustrated,Depressed and suicidal
+6,content,Complains about noise and lack of sleep due to a family member's behavior,Expresses suicidal thoughts and self-loathing
+7,language,Contains strong language and profanity,Contains strong language and profanity
+8,purpose,Seeks a solution to a specific problem,Appears to be a statement of emotional distress
+9,request for help,Mentions considering a drastic change in work schedule to cope with the situation,Does not mention seeking help or a solution
+10,emotional state,Frustrated and desperate,Depressed and suicidal
+11,specifics,Mentions a specific family member's behavior and its impact on their life,Does not mention a specific situation or problem
+12,emotional state,Anxious/Regretful,Anxious/Concerned
+13,tone,Negative,Reflective
+14,content,Work-related mistake,Personal health concern
+15,language,Informal,Informal
+16,emotional intensity,High,Low
+17,tone,Light-hearted and humorous,Serious and suicidal
+18,content,Childhood memories and anxiety,Suicidal thoughts and self-harm
+19,purpose,Seeking connection and validation,Expressing suicidal intent
+20,language,Colloquial and casual,Formal and direct
+21,emotional tone,Self-deprecating and humorous,Desperate and hopeless
+22,tone,"Despondent, hopeless, and matter-of-fact about death","Neutral, inquiring"
+23,content,"Expresses a desire to die, feels disconnected from life, and mentions evolutionary instinct",Asks about physical aspects of anxiety
+24,language,Includes strong language and profanity,Does not include strong language
+25,purpose,Expresses suicidal thoughts and feelings of hopelessness,Seeks information and support
+26,emotional state,Describes a state of emotional numbness and acceptance of death,Expresses a need for help and support
+27,topic,Mental Health/Panic Attacks,Skin Hunger
+28,tone,Concerned/Seeking Help,Curious/Informative
+29,language,Informal/Personal,Informal/Questioning
+30,request,Advice/Help,Opinion/Information
+31,link,None,Yes
+32,emotional tone,Anxious,Neutral
+33,mental health,"Struggling with depression, anxiety, and feelings of isolation, self-consciousness, and frustration with academic performance.","Experiencing anger, irritability, and depression, with a recent diagnosis of bipolar disorder and a history of taking medication."
+34,academic performance,"Struggling with grades, missing due dates, and difficulty understanding concepts.",No mention of academic performance.
+35,social life,"Feels isolated, has no close friends, and struggles with social interactions.",No mention of social life or relationships.
+36,medication,No mention of medication.,Recently stopped taking Depakote medication and experiencing withdrawal symptoms.
+37,emotional state,"Feels angry, frustrated, and sad, with a sense of hopelessness.","Experiencing anger, irritability, and hopelessness, with a sense of exhaustion."
+38,age and timeframe,"A junior college student, struggling for over a year.","No specific age mentioned, but mentions a recent diagnosis in 2018."
+39,tone,"Desperate, frustrated, and seeking help.","Honest, reflective, and somewhat resigned."
+40,tone,Negative and emotional,Descriptive and questioning
+41,language,Informal and fragmented,Formal and structured
+42,length,Short,Long
+43,specificity,Vague,Specific
+44,purpose,Expressing emotions,Seeking advice or understanding
+45,syntax,Simple and fragmented,Complex and multi-sentence
+46,mental health,"expresses suicidal thoughts, feelings of hopelessness, and struggles with therapy and medication","describes anxiety and chest pain, but does not mention suicidal thoughts or feelings of hopelessness"
+47,reason for seeking help,feeling overwhelmed by personal problems and wanting to end life,concern about chest pain and anxiety
+48,medical attention,"has seen a therapist, but not a psychiatrist due to wait time","has seen a PCP, urgent care, and a social worker"
+49,tone,desperate and emotional,concerned and seeking advice
+50,specifics,mentions Christmas and family issues,mentions past anxiety and recent chest pain
+51,mental health,"Expresses suicidal thoughts, feelings of emptiness, and hopelessness","Discusses anxiety, OCD, and past childhood experiences"
+52,tone,"Desperate, hopeless, and regretful","Reflective, ashamed, and seeking help"
+53,content,"Mentions suicidal thoughts and plans, feelings of guilt and remorse","Describes past childhood experiences, feelings of guilt and shame, and seeking help for anxiety and OCD"
+54,purpose,"Unclear, possibly seeking validation or attention","Seeking help, support, and understanding for past experiences and current mental health struggles"
+55,language,Includes explicit language and suicidal ideation,"Uses more neutral language, with some explicit descriptions of childhood experiences"
+56,request,No clear request for help or support,Asks for uplifting feedback and help in understanding and dealing with past experiences
+57,tone,Negative and pessimistic,Positive and hopeful
+58,topic,Feeling mocked and belittled by others,Experiencing depression and seeking support
+59,emotional state,"Sadness, self-doubt, and feeling like an outcast","Sadness, anxiety, but also hope and gratitude for support"
+60,relationships,Feeling isolated and mocked by others,"Reconnecting with someone they have feelings for, receiving support"
+61,purpose,Complaining and venting about feelings of isolation,Seeking support and sharing personal struggles
+62,language,"Includes phrases like 'freak', 'loser', and 'butt of a joke'","Includes phrases like 'heavy mood swings', 'depression', and 'support'"
+63,tone,Seeking help and understanding,Frustrated and hopeless
+64,topic,Anxiety and physical symptoms,Career uncertainty and anxiety
+65,language,Polite and inquiring,Profane and aggressive
+66,purpose,Seeking explanation and potential solution,Expressing frustration and despair
+67,self-perception,Self-aware and questioning,Defeated and uncertain
+68,language style,Formal and detailed,Informal and emotive
+69,trigger warning,trigger-warning,
+70,relationship,my then boyfriend,
+71,emotional state,"haunting me, hated it him desperately, I was worried about being sl*t-shamed",coping with my bad anxiety
+72,physical state,"drank a lot, felt sick, threw up",struggle with close spaces and situations i can't get out of
+73,sexual experience,"he took off my pants and underwear, had sex with me from behind, from the side, and then put me on top of him",
+74,regret,I wish I would have just said „No“ in that moment,
+75,language,English is not my first language,
+76,emotional tone,"Sad, Depressed, Angry, Lonely, Torn",Unknown
+77,specific situation,"Family dynamics, holiday season, personal struggles",General feeling of being against the world
+78,length and detail,"Long, detailed, personal","Short, vague"
+79,purpose,"Expressing emotions, sharing personal struggles",Unknown
+80,tone of the writer,"Vulnerable, honest, apologetic",Unknown
+81,specific emotions,"Sadness, anger, loneliness, discouragement",Unknown
+82,personal relationships,"Family relationships, romantic relationship",Unknown
+83,specific events,"Grandfather's death, family dynamics, home renovation",None
+84,conclusion,"Expressing sadness and hopelessness, but maintaining faith",Unknown
+85,tone,Negative/Reflective,Anxious/Relatable
+86,topic,Social Media and Jealousy,Personal Struggle with Anxiety and Panic Attacks
+87,language,Informal and casual,Informal and conversational
+88,purpose,Seeking validation and connection,Seeking support and comfort
+89,emotional state,Sadness and frustration,Anxiety and stress
+90,length,Short and concise,Longer and more detailed
+91,specifics,Mentions deactivating Facebook,Mentions medication and panic attacks
+92,tone,Seeking advice and help,Desperate and suicidal
+93,purpose,Preventing panic attacks in public,Expressing emotional pain and suicidal thoughts
+94,mental health condition,Bipolar depression and anxiety,Not explicitly mentioned
+95,language,Formal and polite,Informal and emotional
+96,request for help,Asking for advice and coping mechanisms,"Implicitly asking for help, but with a sense of hopelessness"
+97,emotional state,Anxious and fearful,"Overwhelmed, tired, and suicidal"
+98,topic,Bipolar disorder and physical symptoms during mania,"Mental health, societal issues, and existential crisis"
+99, tone,Concerned and inquiring,"Angry, frustrated, and despairing"
+100,purpose,Seeking information and understanding,Expressing emotions and criticizing society
+101,language,Clear and concise,"Emotive and expressive, with some profanity"
+102,focus,Specific physical symptoms and their relation to bipolar disorder,Broad range of societal issues and personal struggles
+103,length,Short and to the point,Long and rambling
+104,tone towards others,Supportive and concerned about the well-being of others,Critical and dismissive of society and its values
+105,tone,"Sad, hopeless, and suicidal","Sad, longing, and nostalgic"
+106,content,"Suicidal thoughts, self-harm, and plans for death","Missing family and friends, feeling lonely, and wanting to be home for holidays"
+107,purpose,"Unclear, possibly seeking validation or attention",Seeking understanding and empathy for missing out on holidays
+108,language,Includes explicit language and references to self-harm,Includes sentimental and emotional language
+109,intent,"Suicidal intent, possibly seeking help or not",Seeking support and understanding
+110,request,"No clear request, possibly seeking help or attention",Requesting understanding and empathy
+111,mental health symptoms,"Hearing voices, distinct voices in head, voices trying to make the author do things",
+112,mental health medication,Lamictal,Ativan
+113,tone and emotion,"Frustrated, annoyed, relieved","Anxious, desperate, suicidal"
+114,request for interaction,None,"Negative comments, hate"
+115,conclusion,"Positive, voices gone","Negative, contemplating leaving"
+116,emotional state,"Depression, sadness, and desperation due to a past betrayal","Anxiety, stress, and uncertainty due to a family crisis"
+117,reason for posting,Seeking help and support to cope with emotional pain,Seeking support and clear thinking to deal with a difficult decision
+118,specific situation,A past friend's betrayal and abandonment,A family member's illness and a marital issue
+119,tone,Desperate and emotional,Anxious and uncertain
+120,request for help,"Yes, explicitly asking for help","Yes, seeking support and clear thinking"
+121,personal circumstances,"Alone, no friends, no therapy, and far from family","Family member's illness, marital issues, and a young child"
+122,mental health,No mention of mental health issues,"Mental health issues (suicidal thoughts, depression, low self-esteem)"
+123,relationship status,Seeking a monogamous relationship,"Recently broken up, feeling used and mistreated"
+124,relationship history,"Previous open relationship, previous partner cheated","Previous partner emotionally and possibly physically cheated, used, and mistreated"
+125,self-perception,Self-doubt about ability to maintain monogamy,"Self-hatred, feeling like the 'worst human being alive'"
+126,goals,Seeking a monogamous relationship and managing high sex drive,Seeking validation and self-acceptance
+127,tone,Seeking advice and solutions,Self-criticism and self-blame
+128,specific behaviors,"Previous open relationship, high sex drive, seeking outlets","Lurking on ex's social media, self-destructive habits"
+129,tone,"Despairing, hopeless, and self-deprecating","Reflective, questioning, and seeking help"
+130,language,"Dark, violent, and graphic (e.g., 'crushing, infinite sadness', 'dying', 'hell', 'cancer', 'remission')","Mild, introspective, and philosophical (e.g., 'shame', 'self-loathing', 'second chance')"
+131,focus,"Personal struggles with depression, relationships, and existential crises","Abstract, philosophical questions about shame, existence, and personal growth"
+132,purpose,"Expressing and processing emotions, possibly seeking validation or support","Seeking guidance, advice, or a second chance from the community"
+133,specifics,"Mentions specific struggles with employment, relationships, and health",Does not mention specific struggles or personal details
+134,tone,"Desperate, anxious, and suicidal","Self-reflective, casual, and slightly anxious"
+135,content,"Mental health struggles, bullying, suicidal thoughts, and feelings of isolation","Relationship issues, casual sex, and emotional detachment"
+136,language,"Emotive language (e.g., 'deadly anxiety overdrive', 'hurts', 'die'), metaphors (e.g., 'punch'), and rhetorical questions","Casual language, self-deprecation, and introspection"
+137,purpose,"Seeking understanding, support, and validation for mental health struggles",Self-reflection and possibly seeking validation for relationship choices
+138,emotional state,"Overwhelmed, anxious, depressed, and suicidal","Anxious, self-aware, and possibly uncertain"
+139,tone towards others,"Resentful, hurt, and angry towards peers, mother, and teachers","Self-critical, possibly dismissive of others' expectations"
+140,topic,Mental Health and Manic Episodes,Work and Salary Negotiation
+141,tone,Honest and Vulnerable,Anxious and Worried
+142,content,"Describes personal experiences with manic episodes, including violent behavior and unusual thoughts",Describes a personal experience of asking for a raise and waiting for a response
+143,language,Includes explicit language and mentions of racism and evil thoughts,Professional and polite language
+144,purpose,Seeks comparison and understanding of manic episodes,Seeks resolution and reassurance about a work situation
+145,emotional state,Reflects on past experiences with a sense of regret and self-awareness,Experiences anxiety and uncertainty about the future
+146,tone,Neutral/Jealous,Emotional/Vulnerable
+147,content,Social comparison,"Mental health struggles, depression, suicidal thoughts"
+148,length,Short,Long
+149,purpose,Expressing a feeling,Seeking help and support
+150,language,Simple,Complex and emotional
+151,subject,Social relationships,Mental health and well-being
+152,tone,Seeking advice and support,Desperate and suicidal
+153,language,Polite and considerate,Abrasive and aggressive
+154,purpose,Seeking help to break a negative cycle,Expressing a desire for death as a means to end pain
+155,emotional state,Negative and hurt,Overwhelmed and suicidal
+156,request for help,Asks for words of wisdom and experiences,"Does not ask for help, but rather expresses a desire for death"
+157,mental health,Acknowledges unhealthy thoughts and seeks help,Expresses a desire to end life due to pain
+158,tone,Depressed and somewhat sarcastic,Desperate and hopeless
+159,focus,Criticism of New Year's celebrations,Personal struggles and self-blame
+160,language,Includes phrases like 'shit' and 'derpressing',Includes phrases like 'done with this' and 'all alone'
+161,optimism,Expresses hope for change in the new year,Lacks optimism and expresses hopelessness
+162,purpose,Critique of New Year's celebrations,Personal reflection and self-blame
+163,tone,Empowering and encouraging,Desperate and seeking logical reasons to stay alive
+164,purpose,Sharing personal experience to help others,Seeking help and logical arguments to stay alive
+165,content,Describes a personal experience of overcoming a toxic relationship and its impact on mental health,"Discusses suicidal thoughts and plans, seeking logical reasons to stay alive"
+166,language,"Includes phrases like 'I feel so alive', 'don't be afraid to leave', 'there is hope and there are ways out'","Includes phrases like 'I've started to seriously consider ending my life', 'I've written a first draft of a note', 'I want to die with a clear conscience'"
+167,target audience,"Appears to be directed at people in similar situations, encouraging them to leave unhealthy relationships","Appears to be directed at the author themselves, seeking help and logical reasons to stay alive"
+168,mental health focus,"Focuses on the impact of toxic relationships on mental health, specifically bipolar disorder",Focuses on suicidal thoughts and depression
+169,specificity,Specifically mentions bipolar disorder and its impact on the author's life,"Specifically mentions depression, suicidal thoughts, and plans"
+170,request for help,Does not explicitly ask for help,"Explicitly asks for a logical, rational argument to stay alive"
+171,mental state,"Feeling aimless, lonely, and without purpose","Feeling socially awkward, insecure, and uncertain about relationships"
+172,life choices,"Dropped out of school, spent 3 years playing video games","No mention of dropping out of school, but struggles with social interactions"
+173,relationships,No friends or girlfriend,"In a relationship, but feeling insecure and uncertain about partner's feelings"
+174,emotional state,Feeling of existential crisis and purposelessness,"Feeling of inadequacy, insecurity, and anxiety"
+175,goals,No clear goals or aspirations,"Wants to be able to dance, sing, and impress partner"
+176,trust,No mention of trust issues,"Trust issues with partner, feeling like they're being cheated on"
+177,self-perception,Feels like they don't exist or have a purpose,Feels like they're not good enough or normal
+178,emotional state,"Conflicted, uncertain, and torn between two relationships","Depressed, hopeless, and suicidal"
+179,relationship status,"In a long-term relationship with problems, also had a brief connection with someone from the past",No mention of a current relationship
+180,tone,"Romantic, nostalgic, and introspective","Dark, hopeless, and suicidal"
+181,reason for distress,"Unfulfilling relationship, unrequited love, and uncertainty about the future","Unhappiness with life, feeling trapped, and suicidal thoughts"
+182,language and imagery,"Uses romantic and emotional language, mentions feeling like the 'most beautiful woman in the world'","Uses dark and desperate language, mentions wanting to die"
+183,self-perception,"Self-doubting, questioning own feelings and motivations","Self-loathing, feeling like a burden to others"
+184,tone,Concerned and seeking help,Casual and somewhat morbid
+185,purpose,Seeking advice and understanding,Sharing a personal thought
+186,content,"Anxiety, depression, physical symptoms, and seeking help",Daydreaming about death and accidents
+187,length,Longer and more detailed,Short and concise
+188,language,Formal and apologetic,Informal and casual
+189,emotional tone,Vulnerable and anxious,Neutral and somewhat morbid
+190,tone,"Negative, emotional, and desperate","Negative, but philosophical and introspective"
+191,reason for feeling,Personal health issues (migraines and depression),Disappointment with humanity and societal progress
+192,language used,Profanity and strong language,Mild language
+193,emotional state,"Overwhelmed, sad, and self-pitying","Disappointed, frustrated, and nostalgic"
+194,focus,Personal struggles and feelings,Societal and philosophical concerns
+195,tone towards self,Self-critical and self-pitying,Self-reflective and introspective
+196,tone,Impatient and frustrated,Anxious and suicidal
+197,content,General dissatisfaction,Specifically about mental health and college pressures
+198,language,Includes profanity,Includes profanity and more detailed descriptions of mental health concerns
+199,length,Short,Longer and more detailed
+200,purpose,Expressing frustration,Expressing anxiety and seeking help
+201,specifics,No specific details,Specific details about college pressures and mental health concerns
+202,topic,Mental Health,Mental Health
+203,tone,Concerned/Seeking Help,Inquiring/Seeking Information
+204,specificity,Specific (depression's effects on appearance),Specific (panic attacks in sleep)
+205,length,Short,Short
+206,content,Question with implied personal issue,Question with no implied personal issue
+207,mental health,"Expresses suicidal thoughts, feelings of hopelessness, depression, anxiety, and a history of suicidal attempts.",Asks about a specific symptom (Derealization) and its possible causes.
+208,age,22 years old,
+209,marital status,Married,
+210,mental health treatment,"Has had counseling and been on medication, but feels numb and dead",
+211,tone,"Desperate, hopeless, and suicidal",Curious and inquiring
+212,specifics,Provides specific details about their life and struggles,Does not provide specific details about their life or struggles
+213,purpose,Expresses a desire to end their life,Seeks information and understanding
+214,author's perspective,"Personal, reflective, and open about mental health struggles","Brief, vague, and focused on a specific event"
+215,tone,"Honest, vulnerable, and hopeful","Neutral, matter-of-fact, and brief"
+216,content,"Discusses the author's mental health, relationships, and personal growth","Mentions a specific event, but does not elaborate"
+217,length,"Longer, with a personal anecdote and a reference to a quote",Short and concise
+218,purpose,"Seeks support, shares personal experience, and offers a message of hope","Does not explicitly state a purpose, but may be seeking support or sharing a personal experience"
+219,language,"Uses colloquial expressions and slang (e.g., 'Black Knight', 'jackoff')",Uses formal language
+220,emotional state,"frustrated, desperate, cold, crying","hopeless, empty, alone, suicidal"
+221,reason for distress,"car broke down, lack of financial resources, isolation","unfulfilling job, financial struggles, relationship issues, lack of future prospects"
+222,tone,"angry, bitter","despondent, suicidal"
+223,specific issues,"car trouble, lack of support from family","unfulfilling job, financial struggles, relationship issues, infertility concerns"
+224,language and profanity,contains profanity,contains profanity
+225,long-term perspective,short-term focus on immediate problem,long-term focus on future prospects and goals
+226,relationships,estrangement from family,struggling relationship with boyfriend
+227,tone,"Negative, emotional, and desperate","Angry, frustrated, and assertive"
+228,language,"Informal, uses colloquial expressions (e.g., 'fucking it up')","Informal, uses colloquial expressions (e.g., 'bullshitter'), but also includes more detailed descriptions and examples"
+229,content,Expresses general feelings of sadness and hopelessness,"Describes a specific situation and a person's behavior, providing examples and context"
+230,purpose,Appears to be a cry for help or a release of emotions,"Aims to express frustration and anger towards someone's behavior, possibly to set boundaries or distance oneself"
+231,length,Short and concise,Longer and more detailed
+232,specificity,Lacks specific details,Includes specific examples and details about the person's behavior
+233,conclusion,Does not provide a clear conclusion or resolution,Concludes with a clear statement about not wanting to date the person again and expressing frustration with the situation
+234,tone,Neutral/Indirect,Emotional/Honest
+235,length,Short,Long
+236,content,Vague,Detailed
+237,purpose,Unclear,Seeking Advice
+238,specifics,None,"Mention of childhood trauma, depression, suicidal thoughts, relationship issues, and self-doubt"
+239,language,Simple,Complex
+240,emotional expression,None,High
+241,specific emotions,None,"Depression, Suicidal thoughts, Anger, Sadness, Frustration, Helplessness"
+242,request for help,Implicit,Explicit
+243,emotional state,"anxious, proud, relieved","upset, angry"
+244,reason for emotion,overcoming a big event and anxiety,friend's new relationship and perceived objectification
+245,physical symptoms,"head heavy, nauseated, tired",
+246,tone,"reflective, seeking support","angry, accusatory"
+247,context,returning to school after a break,workplace dynamics and relationships
+248,emotional state,Feeling trapped and helpless,Feeling unloved and abandoned
+249,tone,Desperate,Resigned
+250,mention of suicide,No mention,Mention of writing a suicide note
+251,cause of emotional state,Lost job,Lack of care from others
+252,level of urgency,High,Low
+253,mental health,"How to pick up the pieces of your life after a manic episode, explaining mania, and taking responsibility for actions.","Anxiety about going to the gym, weight gain, and self-acceptance."
+254,age,Adult,16-17 years old
+255,relationship status,"Ex-partner, undiagnosed until recently","Girlfriend, no mention of undiagnosed mental health"
+256,tone,"Reflective, regretful, and seeking advice","Anxious, uncertain, and seeking advice"
+257,specific issues,"Mania, relationship issues, and taking responsibility","Weight gain, gym anxiety, self-acceptance, and social anxiety"
+258,request for advice,Yes,Yes
+259,tone,Lighthearted and casual,Serious and emotional
+260,length,Short and concise,Long and detailed
+261,content,Sharing a personal solution to anxiety,Sharing a personal experience of a difficult situation
+262,purpose,To share a helpful tip,To express frustration and seek support
+263,language,Informal and conversational,Formal and emotive
+264,structure,Simple and straightforward,Complex and narrative
+265,emotional tone,Positive and encouraging,Negative and frustrated
+266,tone,Direct and explicit,Emotional and reflective
+267,purpose,Seeking information on fatal prescription drug combinations,"Sharing personal struggles with depression, anxiety, and social anxiety"
+268,language,Informal and vague,Formal and detailed
+269,content,Requesting information on a sensitive topic,Sharing personal experiences and emotions
+270,intent,Harmful or suicidal,Seeking support and understanding
+271,specifics,Mentions specific drugs,Mentions specific events and emotions
+272,tone towards self,Neutral,Self-critical and regretful
+273,tone towards others,Neutral,Respectful and considerate (towards family)
+274,tone,"Sad, anxious, and seeking help","Sad, emotional, and introspective"
+275,purpose,Seeking advice on making and keeping friends,Breaking up with someone and expressing feelings
+276,emotional state,Anxious about social interactions and friendships,Heartbroken and emotional about a relationship
+277,relationship,Struggling with making friends,Ending a romantic relationship
+278,mental health,Mentioned generalized anxiety disorder,No mention of mental health
+279,request,Asks for tips,Expresses hope for a continued platonic relationship
+280,topic,Mental Health/Bipolar,Relationships
+281,tone,Personal/Reflective,Emotional/Vulnerable
+282,length,Short,Short
+283,specificity,Specific (bipolar),Specific (liking someone)
+284,emotional intensity,Neutral,High
+285,mental health,Finally told my friends and family I’m bipolar and it felt SO good It felt amazing to get that off my chest three years later.,
+286,mental health,,I just started taking a Escitalopram 10mg (only taking half a pill) about a week ago to help with general anxiety.
+287,mental health,,"Among others minor effects, the biggest side effect form so far is very low sexual drive."
+288,mental health,,Does this go away after a while or does this persist?
+289,mental health,,"My anxiety isn't terrible, I'd rather have some general anxiety than having no sex drive."
+290,mental health,,
+291,tone,Anxious and apologetic,Angry and hateful
+292,content,Personal anxiety,Criticism of the US government and society
+293,language,Mild language,Strong profanity and derogatory language
+294,purpose,Seeking understanding or support,Expressing frustration and anger
+295,specifics,No specific issues mentioned,"Criticism of Al Franken's resignation, the US government, and societal issues"
+296,conclusion,No conclusion,Decision to leave the US
+297,tone,Casual and lighthearted,Desperate and emotional
+298,purpose,Seeking commonality,Seeking support and help
+299,content,Simple and straightforward,Detailed and personal
+300,emotional state,Neutral,Depressed and anxious
+301,specifics,None,"Mental health issues, job loss, isolation, and relationship problems"
+302,request for help,Implicit,Explicit
+303,tone,Critical and concerned,Angry and vengeful
+304,language,"Mild profanity (beucase, it)","Strong profanity (fucking, goddamn)"
+305,subject,Suffering in silence and societal expectations,Hatred and self-loathing
+306,purpose,Sharing thoughts and raising awareness,Expressing intense emotions and possibly seeking validation
+307,level of self-awareness,Self-aware and reflective,Lacking self-awareness and introspection
+308,potential for harm,Low,High
+309,medication,Wellbutrin,Lamictal/Quetiapine combo
+310,side effects,"tense, energy, clenching, headaches, anxiety",sleep disturbances
+311,previous medications,"Zoloft, Effexor, Paxil, Pristiq, Lexapro",
+312,sleep,"tired, but with excess energy","sleep disturbances, previously had undisturbed sleep"
+313,tone,"concerned, seeking advice","frustrated, seeking advice"
+314,mental health,"Expresses suicidal thoughts and feelings of hopelessness, mentions self-harm, and a desire to end life.","Expresses feelings of hopelessness, anxiety, and desperation, but does not explicitly mention suicidal thoughts or self-harm."
+315,age,17 years old,Age not specified
+316,reason for distress,"Argument with a friend and family members, feeling of being alone","Recurring thoughts and feelings of inadequacy, anxiety, and desperation"
+317,tone,"Angry, frustrated, and desperate","Anxious, desperate, and apologetic"
+318,language used,Profanity and strong language,"Profanity and strong language, but less frequent and less intense"
+319,seeking help,"Does not explicitly seek help, but expresses a desire to talk to someone","Seeks help through a throwaway Reddit account, but feels ashamed and unsure if it's the right place"
+320,specific thoughts,"Does not mention specific thoughts, but expresses a desire to end life",Mentions specific thoughts of inadequacy and attention-seeking
+321,tone,"Despondent, hopeless, and anxious","Despondent, hopeless, and self-punishing"
+322,reason for despair,Environmental concerns and existential crisis,Self-perceived worthlessness and guilt
+323,self-harm,"Mention of antidepressants, but no self-harm",Self-starvation and self-harm
+324,purpose,Questioning the point of life and waiting for a catastrophic event,Feeling like a burden and wanting to be punished
+325,emotional state,"Anxious, hopeless, and uncertain","Worthless, guilty, sad, and self-punishing"
+326,emotional state,"feeling of failure, sadness, guilt","confusion, mixed emotions, scattered thoughts"
+327,tone,"desperate, hopeless","confused, uncertain"
+328,language,"simple, direct","complex, fragmented"
+329,self-perception,feeling of inadequacy,feeling of uncertainty
+330,mood,negative,neutral/positive (despite mixed emotions)
+331,specific emotions,"sadness, guilt","anger, nervousness, confidence"
+332,mental health,"Describes depression, feelings of isolation, self-hatred, and relationship issues",
+333,age,Mid-twenties,
+334,relationship status,"In a relationship, engaged",
+335,tone,"Negative, hopeless, and desperate","Reflective, matter-of-fact"
+336,content,"Depression, relationship issues, academic struggles, and feelings of worthlessness",Childhood OCD behaviors and their possible origins
+337,language,Includes strong language and profanity,Mild language
+338,purpose,"Unclear, possibly seeking support or venting","Reflective, possibly seeking self-awareness"
+339,tone towards others,Negative towards self and partner,Neutral towards self and others
+340,tone,"Depressed, hopeless, and suicidal","Wistful, introspective, and slightly melancholic"
+341,content,"Suicidal thoughts, regret, and helplessness","Desire to be mute, feelings of inadequacy, and appreciation for a loved one"
+342,language,"Profanity, strong emotions, and a sense of desperation","Mild language, introspective tone, and a sense of longing"
+343,purpose,Expressing suicidal thoughts and feelings of hopelessness,Exploring a personal desire and seeking connection
+344,conclusion,Suicidal intent and a sense of finality,A sense of longing and a desire for connection
+345,tone,"Sad, reflective, and slightly defensive","Desperate, anxious, and emotional"
+346,reason for posting,To process and share grief,To seek help and support for mental health
+347,specific issue,Grief and loss of a loved one,Depression and anxiety
+348,age and perspective,Young adult (21) with a recent loss,"No specific age mentioned, but seeking help for mental health"
+349,request for help,"No explicit request for help, but seeking validation",Explicit request for tips to feel better
+350,emotional state,"Sad, guilty, and uncertain","Desperate, anxious, and emotional"
+351,tone,Anxious and seeking help,Frustrated and hopeless
+352,emotional state,Stressed and depressed,Disappointed and unenthusiastic
+353,reason for posting,Seeking advice on managing stress,Expressing frustration with social plans
+354,language and humor,Includes a lighthearted tone and apology for clickbaiting,Does not include humor
+355,request,Asks for advice,Does not ask for advice
+356,tone,Concerned and seeking help,Confessional and somewhat unusual
+357,purpose,Seeking understanding and advice on social anxiety,Sharing a personal desire for breast implants
+358,content,Describes personal experiences and behaviors related to social anxiety,Discusses a personal desire for breast implants
+359,language,"Includes phrases like 'I dunno', 'I feel like', and 'I'm not usually the one to introduce myself right off the bat'",Includes phrases like 'call it a bad case of breast envy or something'
+360,self-identification,Identifies as someone who is shy and an introvert,Identifies as a guy in the military
+361,request,Asks for help and advice,Does not ask for help or advice
+362,tone,Positive and hopeful,Negative and uncertain
+363,disclosure,Implicit disclosure (hinting at bipolar diagnosis),Explicit disclosure (openly stating bipolar diagnosis)
+364,concerns,None mentioned,"Fear of being pitied, fear of being viewed as irresponsible and unstable"
+365,relationship status,On a date,Seeking advice on starting a relationship
+366,mental health approach,Mention of medication and alternative methods,Concerns about medication and its impact on relationships
+367,request,Sharing a positive experience,Seeking advice and help
+368,mood and tone,"Depressed, hopeless, and self-deprecating","Nervous, anxious, and hopeful"
+369,age and relationship status,"27, single, and a virgin","Age not mentioned, recently out of a relationship"
+370,reason for posting,Seeking validation and support for low self-esteem,Seeking advice and luck for confessing to a crush
+371,relationship with others,"Feels humiliated and ridiculed by others, especially women",Has a crush on someone and is seeking to start a new relationship
+372,self-perception,"Feels ugly and unattractive, believes only 'chiseled 10/10 hunks' get attention",Not mentioned
+373,resolution,"None, just expressing feelings and frustrations","Seeks advice and luck, later updates with a positive outcome"
+374,tone of the update,Negative and despairing,"Initially negative, but later positive and happy"
+375,emotional tone,"Angry, Frustrated, Helpless, Sad","Anxious, Worried, Cautious"
+376,subject matter,"Family dynamics, Sibling rivalry, Parental expectations, Mental health","Relationship, Infidelity, Jealousy, Fear of being discovered"
+377,language and profanity,Contains strong profanity and explicit language,Mild profanity and informal language
+378,length and complexity,"Longer and more complex, with multiple storylines and emotions","Shorter and more straightforward, with a single concern"
+379,purpose,"Venting and seeking understanding, possibly seeking advice",Seeking reassurance and advice on how to handle a situation
+380,tone towards others,Critical and resentful towards family members,Concerned and anxious about hurting someone else
+381,tone,"Desperate, hopeless, and suicidal","Proud, emotional, and triumphant"
+382,content,"Mental health struggles, poverty, suicidal thoughts, and feelings of worthlessness","Child's achievement in wrestling, perseverance, and parental pride"
+383,language,"Profanity, cursing, and derogatory self-talk","Positive language, encouragement, and celebration"
+384,purpose,Expressing feelings of hopelessness and desperation,Sharing a moment of pride and accomplishment
+385,author's situation,"Adult with BPD, living in poverty, and struggling with PTSD","Parent of a 12-year-old child, involved in their child's activities"
+386,emotional state,"Overwhelmed by pain, fear, and anxiety","Euphoric, proud, and emotional"
+387,request for help,"Implicitly requests help, but also expresses reluctance to seek it",None
+388,tone,Positive and relieved,Sad and longing
+389,subject matter,Academic achievement and stress relief,Desire for a family and emotional fulfillment
+390,emotional state,Triumphant and happy,"Sad, anxious, and insecure"
+391,life situation,"Balancing work, classes, and personal struggles",Desire for a family and fear of repeating past experiences
+392,language,Uses phrases like 'I am so glad that the stress about that is gone for now.',Uses phrases like 'I have no love for either of them' and 'I wish for the same thing'
+393,purpose,Sharing a personal achievement and stress relief,Sharing a deep-seated desire and emotional need
+394,tone,Reflective and melancholic,Distressed and uncertain
+395,content,Nostalgia and regret about not creating lasting memories,Suicidal thoughts and feelings of hopelessness
+396,language,Formal and coherent,Informal and fragmented
+397,purpose,Sharing a personal reflection,Seeking help and clarification about mental health
+398,emotional intensity,Low to moderate,High
+399,specific details,None,Specific details about suicidal thoughts and physical sensations
+400,tone,"Anxious, worried, and accusatory","Sad, lonely, and desperate"
+401,subject,Being accused of something without knowing the details,Difficulty forming new relationships and friendships
+402,emotional state,"Frustrated, confused, and uncertain","Lonely, demotivated, and uncertain"
+403,reason for difficulty,Lack of information and a friend's potential betrayal,"Introversion, social anxiety, and difficulty finding like-minded people"
+404,desired outcome,To know the truth and resolve the situation,To form meaningful relationships and connections with others
+405,self-perception,Self-doubting and uncertain about their actions,Self-aware and accepting of their introversion and preferences
+406,language and style,"Informal, with some profanity and emotional language","Informal, with some profanity and emotional language, but also more introspective and self-aware"
+407,tone,Depressed and self-critical,Concerned and suspicious
+408,content,Personal struggles with depression and self-doubt,Suspicious encounter with a potential child kidnapper
+409,purpose,Catharsis and self-expression,Warning or alerting others
+410,language,Informal and conversational,Formal and descriptive
+411,emotional intensity,High (self-criticism and sadness),High (concern and anxiety)
+412,specific details,"Lying, feeling haunted, and self-doubt","Suspicious behavior, child's appearance, and the man's voice"
+413,tone,Casual and inviting,Concerned and seeking help
+414,purpose,Inviting others to join a trip,Seeking advice and understanding about a personal issue
+415,content,Travel plans,Mental health concerns and symptoms
+416,language,Informal and casual,Formal and seeking help
+417,emotional tone,Positive and inviting,Concerned and anxious
+418,length,Short,Longer and more detailed
+419,age,20 year-old,
+420,tone,Desperate,Reflective
+421,content,Lack of life,Anxiety about increased responsibility
+422,specificity,Vague,Specific
+423,request for advice,No,Yes
+424,request for validation,Yes,Yes
+425,professional context,No,Yes
+426,length,Short,Long
+427,specific examples,No,Yes
+428,politeness,No,Yes
+429,tone,"The tone of Post 1 is melancholic, emotional, and honest, with a sense of desperation and vulnerability.","The tone of Post 2 is inquiring, uncertain, and somewhat anxious, with a sense of self-doubt."
+430,length,"Post 1 is a long, detailed, and narrative-driven post that shares a personal story.","Post 2 is a short, concise, and question-driven post that seeks clarification."
+431,content,"Post 1 shares a personal story of trauma, loss, and emotional struggle, including a difficult childhood, a painful divorce, and multiple failed relationships.",Post 2 asks about the possibility of anxiety being the cause of social difficulties and feelings of being misunderstood.
+432,language,"Post 1 uses informal language, with some grammatical errors and colloquial expressions.",Post 2 uses standard English with proper grammar and spelling.
+433,purpose,The purpose of Post 1 is to share a personal story and seek understanding and connection.,The purpose of Post 2 is to seek clarification and understanding about a specific issue.
+434,emotional intensity,"Post 1 is emotionally intense, with a sense of desperation and vulnerability.","Post 2 is less emotionally intense, with a sense of uncertainty and self-doubt."
+435,self-awareness,"Post 1 shows a high level of self-awareness, with the author acknowledging their emotional struggles and seeking help.","Post 2 shows a moderate level of self-awareness, with the author acknowledging their social difficulties and seeking clarification."
+436,specificity,"Post 1 is highly specific, with detailed descriptions of personal experiences and emotions.","Post 2 is less specific, with a more general question about anxiety and social difficulties."
+437,personal growth,"Post 1 suggests a desire for personal growth and healing, with the author seeking help and connection.","Post 2 does not explicitly suggest a desire for personal growth, but rather a desire for understanding and clarification."
+438,mental health issues,"Mentioned suicidal thoughts, self-harm, substance abuse, and feelings of being a burden to others.","Mentioned suicidal thoughts, feelings of worthlessness, loneliness, and social isolation, as well as substance abuse and self-harm."
+439,reasons for suicidal thoughts,"Financial struggles, academic pressure, and past abuse.","Feeling like a social outcast, lack of meaningful relationships, and feeling like a burden to others."
+440,methods of coping,"Substance abuse, self-harm, and exercise.","Substance abuse, self-harm, and escapism through video games."
+441,relationships,"Difficulty talking to friends, feeling like a burden to family members.","Difficulty forming and maintaining relationships, feeling like a burden to family members, and feeling like an outcast."
+442,self-perception,"Feels like a burden, struggles with self-worth.","Feels worthless, like a waste of space, and struggles with self-worth."
+443,future goals,"Wants a bright future, wants to overcome current struggles.","Wants to meet someone and fall in love, wants to feel loved and valued."
+444,mental health,"Describes a history of depression, antidepressant use, and experimentation with illicit substances to cope with symptoms, expressing frustration with prescribed medication and seeking alternative solutions.","Expresses feelings of hopelessness, loneliness, and despair after a breakup, with a sense of being pointless and struggling to cope with daily life."
+445,age and relationship status,"33F, single, living alone, and in a long-distance relationship","No age mentioned, in a past relationship, currently alone"
+446,work and productivity,"Works in a busy medical environment, reports increased motivation and productivity while using illicit substances","Works, but feels pointless and struggles to cope with daily life"
+447,substance use,"Describes experimentation with various antidepressants and illicit substances, including meth, LSD, and Dex, to cope with depression",No mention of substance use
+448,tone and language,"Expresses frustration, self-blame, and a sense of being trapped in a cycle of depression and medication","Expresses feelings of hopelessness, despair, and a sense of being pointless"
+449,seeking help,Seeks advice on how to discuss illicit substance use with a psychiatrist and find alternative solutions to cope with depression,No mention of seeking help or advice
+450,tone,Anxious and apprehensive,Desperate and frustrated
+451,reason for concern,Social anxiety,Work-related dissatisfaction and burnout
+452,mental state,Anxious about social interactions,Feeling hopeless and overwhelmed
+453,language used,Cautious and hesitant,Emotive and intense
+454,request for help,None,Implicit (throwaway account for obvious reasons)
+455,suicidal thoughts,No,"Present, but clarified as not suicidal"
+456,confidence level,Not mentioned,Low
+457,job satisfaction,Not mentioned,Very low
+458,future plans,Going out with friends,Returning to work
+459,emotional state,Love,Depression
+460,relationship status,Unrequited love,Loneliness
+461,tone,Romantic,Sad and Desperate
+462,self-perception,Idealized,Insecure
+463,social comparison,None,Comparing to others
+464,language,Poetic,Raw and honest
+465,tone,"Negative, melancholic, and somewhat hopeless","Desperate, emotional, and seeking help"
+466,language,"Informal, conversational, and somewhat rambling","Direct, emotional, and seeking assistance"
+467,purpose,Reflecting on past experiences and current life,Seeking a solution to emotional pain
+468,specifics,Mentions specific life events and feelings of inadequacy,Asks for a way to feel numb and avoid emotional pain
+469,emotional state,"Feels hopeless, unfulfilled, and regretful","Feels overwhelmed, emotional, and desperate"
+470,emotional state,Sadness/Heartbreak,Frustration/Indecisiveness
+471,tone,Negative,Self-deprecating/Reflective
+472,content,Romantic Relationship,Personal Struggle/Procrastination
+473,language,Simple/Concise,Longer/More Descriptive
+474,purpose,Expression of Emotion,Self-Reflection/Questioning
+475,mental health,Girlfriend cheated on me and mentally abused me and now all I can think about is ending it,Good Options When Bipolar Makes it Hard to Work?
+476,age,16 and a junior in high school,No mention of age
+477,relationship status,In a relationship with an abusive partner,No mention of a relationship
+478,mental health conditions,Terrible social anxiety and self-esteem issues,Bipolar and anxiety
+479,work status,No mention of work,Struggling to find work due to bipolar and anxiety
+480,tone,Desperate and suicidal,Seeking advice and help
+481,request,Asks for help to not end it with pills,Asks for work-from-home opportunities
+482,mention of medication,"Mentions Xanax, Seroquel, and Oxycottin",Mentions medication for bipolar
+483,tone,Sad,Angry and Desperate
+484,content,Personal preference about cat behavior,"Personal struggles with health, prison time, and pain management"
+485,language,Polite and informal,Profane and aggressive
+486,purpose,Expressing a feeling,Seeking a solution to end one's life
+487,urgency,Low,High
+488,request for help,No,Yes
+489,tone,Positive and anxious,Negative and dismissive
+490,content,Discussing a medical appointment and medication,Expressing apathy
+491,language,Informal and conversational,Informal and colloquial
+492,purpose,Seeking support and sharing personal experience,Expressing a sentiment or attitude
+493,emotional tone,Anxious and hopeful,Apathetic
+494,length,Longer and more detailed,Short and concise
+495,tone,Anxious and uncertain,Desperate and suicidal
+496,reason for concern,Fear of being judged for not being close to the deceased and navigating family dynamics,Struggling with anxiety disorder and feeling like a burden to family
+497,emotional state,Anxious about attending a funeral and interacting with family,Overwhelmed by anxiety and suicidal thoughts
+498,relationship with the deceased,Not close to the deceased,No mention of the deceased
+499,request for help,Asking for advice on how to navigate the situation,Expressing a desire to die due to feeling like a burden
+500,mental health,No mention of mental health issues,Struggling with anxiety disorder and suicidal thoughts
+501,tone,Positive and hopeful,Negative and frustrated
+502,topic,Movie review and personal reflection,Mental health care and insurance
+503,purpose,Sharing a personal experience,Seeking advice and information
+504,length,Short,Long
+505,specific details,None,"Specific details about insurance, medication, and mental health"
+506,request for help,No,Yes
+507,emotional state,Hopeful,Frustrated and anxious
+508,tone,"Negative, emotional, and somewhat suicidal","Reflective, uncertain, and slightly positive"
+509,content,"Mentions suicidal thoughts, feeling of loneliness, and dissatisfaction with life",Discusses uncertainty and its impact on mental state
+510,language,Includes profanity and strong language,Formal and neutral language
+511,age,Mentions being in high school,No mention of age
+512,purpose,Appears to be a cry for help or a release of emotions,Seems to be a reflection and a moment of self-awareness
+513,specifics,"Mentions feeling of competition and ego, and the desire to escape life's problems",Mentions uncertainty and the 'all roads lead to ruin' mentality
+514,topic,Mental Health/Restlessness,Atheism/Personal Beliefs
+515,tone,Seeking advice/help,Reflective/Emotional
+516,length,Short,Long
+517,language,Informal,Informal/Emotional
+518,purpose,Seeking advice,Sharing personal thoughts/emotions
+519,specificity,Specific (medication and symptoms),General (personal beliefs)
+520,tone,Informative and somewhat casual,Negative and vague
+521,specificity,Specific about energy drinks and symptoms,Vague about symptoms
+522,language,Includes strong language (e.g. 'bullshit'),Includes strong language (e.g. 'shit')
+523,purpose,Seeking advice or validation,Expressing negative emotions
+524,mental health discussion,Discusses self-medication with energy drinks for depression,Mentions feeling 'shit' but does not explicitly discuss mental health
+525,emotional state,"feeling isolated, pain, depression, and anxiety about being discovered","depression, feeling hopeless, and suicidal thoughts"
+526,relationships,difficulty reciprocating love and rejecting people,difficulty forming meaningful relationships due to addiction and depression
+527,substance abuse,no mention of substance abuse,history of crystal meth and cocaine use
+528,motivation,fear of being discovered and judged,feeling trapped in a cycle of addiction and seeking help
+529,tone,melancholic and introspective,desperate and suicidal
+530,purpose,seeking connection and understanding,seeking help and a way out of addiction
+531,language,formal and introspective,informal and conversational
+532,specifics,difficulty looking into people's eyes,"history of substance abuse, depression, and suicidal thoughts"
+533,tone,"Angry, bitter, and rebellious","Sad, anxious, and self-blaming"
+534,reason for lack of motivation,Dislike of societal expectations and pressure to conform,Breakup and feelings of guilt and responsibility for partner's depression
+535,mention of suicide,Mentioned as a possible solution to escape societal expectations,Mentioned as a recurring thought due to depression and anxiety
+536,language and vocabulary,"Includes strong language and profanity, and a sense of defiance",Includes more introspective and emotional language
+537,purpose of the post,A rant and expression of frustration with societal expectations,A cry for help and expression of emotional pain
+538,age and maturity,Written by a 16-year-old who claims to be aware of their own thoughts and feelings,"No age mentioned, but the language and tone suggest a younger adult"
+539,request for help,"No explicit request for help, but a statement of not wanting sympathy",Implicit request for help and support
+540,tone,Impulsive/Emotional,Honest/Desperate
+541,length,Short,Long
+542,specificity,Vague,Specific
+543,emotional expression,Present,Present
+544,request for help,Implicit,Implicit
+545,self-description,None,Present
+546,specific details,None,Present
+547,emotional state,"frustrated, anxious, worried, angry, hate","anxious, stressed, shy, freaked out"
+548,reason for emotional state,"home situation, rent prices, living with family member's boyfriend and his son, son's behavior","talking to elderly people, shyness, fear of not being understood"
+549,specific issues,"son's criminal record, probation, guns, drugs, noise, breaking into neighbor's yard","difficulty communicating with elderly people, fear of not making a good impression"
+550,desired outcome,"moving out, getting away from the situation, protecting mom","overcoming anxiety, making a good impression, feeling more confident"
+551,tone,"angry, frustrated, desperate","anxious, uncertain, seeking reassurance"
+552,relationships,"family member's boyfriend and his son, neighbors","boyfriend's family, particularly his dad"
+553,location,"specific city, apartment complex",no specific location mentioned
+554,mental health,"Expresses feelings of sadness, frustration, and self-doubt, but does not mention suicidal thoughts.","Expresses suicidal thoughts, feelings of worthlessness, and a negative self-image, indicating a higher risk of mental health crisis."
+555,relationship,"Feels pressured to pretend to be happy for her boyfriend's sake, but does not mention any issues in the relationship.",Feels guilty for not being able to provide for his girlfriend and is concerned about affecting her negatively.
+556,tone,"Tone is melancholic and self-critical, but not desperate or hopeless.","Tone is desperate, hopeless, and suicidal."
+557,language,"Uses phrases like 'I hate my life', 'I hate myself', and 'I'm a shitty girlfriend', but does not use explicit suicidal language.","Uses explicit suicidal language, such as 'I just want to be around someone who's not happy/bubbly/positive' is not present, but 'I find myself thinking about killing myself on a regular basis' is present."
+558,purpose,Seeks to 'pull it together' for her boyfriend's sake.,Seeks help and support to cope with suicidal thoughts and feelings of worthlessness.
+559,self-awareness,Acknowledges her feelings but does not recognize the severity of her mental health issues.,Recognizes the severity of his mental health issues and the impact on his relationships and daily life.
+560,tone,Seeking help and advice,Desperate and suicidal
+561,content,Nail biting and self-harm,Suicide and depression
+562,language,Polite and seeking help,Abrupt and alarming
+563,purpose,Seeking advice to stop a habit,Expressing distress and possibly seeking help
+564,emotional state,Frustrated and in pain,Desperate and suicidal
+565,tone,Angry and desperate,Neutral and informative
+566,content,Personal struggles and relationship issues,Sharing a personal experience and asking for input
+567,language,Includes profanity and informal language,Formal and professional language
+568,purpose,Seeking emotional support and venting,Sharing a personal experience and seeking validation
+569,structure,Unstructured and narrative,Structured and includes links to external content
+570,emotional state,Depressed and anxious,Reflective and neutral
+571,emotional tone,"Sad, Resentful, Determined","Angry, Hurt, Longing"
+572,relationship type,Family (Grandparents),Romantic Partner
+573,reason for conflict,"Abuse, Manipulation, Expectations","Breakup, Unfulfilled Expectations, Unresolved Emotions"
+574,goals,"Independence, Forgiveness, Moving On","Closure, Friendship, Shared Experiences"
+575,tone towards the other person,"Resentful, Frustrated","Angry, Hurt, Longing"
+576,self-description,"Strong, Independent, Determined","Hurt, Vulnerable, Changed"
+577,request,No specific request,"To be left alone, to have closure"
+578,emotional state,"lonely, anxious, scared, feeling like an idiot, lost self-confidence","frustrated, unable to access account"
+579,reason for posting,seeking friendship and human connection,trying to recover a lost online account
+580,tone,"desperate, emotional, pleading","frustrated, annoyed"
+581,language used,"profanity, informal language","colloquial language, but less profanity"
+582,specific request,"asking for someone to talk to, meet up, or hang out",asking for help recovering a lost account
+583,mental health indication,"possible signs of depression, social anxiety",none apparent
+584,motivation and productivity,"I know what I need to do to make myself happy and make me a better person, but I have no motivation to do it - I need to start working out, - Eat healthy, Start studying, Fix my sleeping schedule, Be more social, Make time for hobbies",
+585,mental health,,"For anyone not on meds, has depression killed your sex drive? Trying to figure out if I am depressed or not.."
+586,personal growth,"I know exactly what I need to do to change, but I'm just sitting here wasting my youth",
+587,lifestyle,I just go home and listen to music and sit on the computer all day,
+588,self-awareness,I know what I need to do to make myself happy and make me a better person,Trying to figure out if I am depressed or not..
+589,regret,I'm just sitting here wasting my youth,
+590,tone,"Melancholic, introspective, and somewhat desperate","Hesitant, uncertain, and hopeful"
+591,subject,The author's desire to escape their waking life through dreams,The author's desire to get a dog
+592,language,"Poetic, metaphorical, and somewhat abstract","Conversational, straightforward, and practical"
+593,emotional state,"Sadness, frustration, and a sense of disconnection","Uncertainty, longing, and a desire for companionship"
+594,purpose,The author seeks to escape their current life and find freedom in dreams,The author seeks to convince their parents to get a dog
+595,level of urgency,"High, with a sense of desperation and longing","Moderate, with a sense of hope and anticipation"
+596,life situation,The author is unhappy with their current life and feels disconnected from others,The author is currently living with their parents and is planning to move out
+597,request for help,"Implicit, with the author seeking a way to escape their current life","Explicit, with the author seeking advice on how to convince their parents to get a dog"
+598,tone,Angry and defensive,Anxious and vulnerable
+599,purpose,To express frustration and defend oneself,To express anxiety and seek help or vent
+600,content,Short and focused on a specific issue,"Long and detailed, covering multiple issues and emotions"
+601,language,Direct and assertive,Reflective and self-deprecating
+602,emotional expression,Emotional but controlled,Emotional and raw
+603,self-awareness,Limited self-awareness,High self-awareness and introspection
+604,specificity,Specific issue (energy levels),"Multiple issues (anxiety, fear, uncertainty, lack of experience)"
+605,apology,No apology,Multiple apologies for taking up space and for being a 'big baby'
+606,length,Short (1 sentence),Long (multiple paragraphs)
+607,specific details,No specific details,"Multiple specific details (e.g. graduation, job search, anxiety, panic attack)"
+608,tone,Anxious and insecure,Self-deprecating and remorseful
+609,reason for feeling,Girlfriend's social activities,Personal mistakes and perceived worthiness
+610,language used,Passive and indirect,Direct and self-critical
+611,emotional state,Depressed and anxious,Depressed and self-loathing
+612,self-perception,Insecure about relationship,Self-perceived as a 'piece of shit'
+613,mental health,"Mentioned missing work, lack of motivation, and considering self-harm",Mentioned an appointment with a mental health center and being terrified
+614,work,Mentioned missing work and feeling responsible for it,No mention of work
+615,medication,Mentioned weaning off Latuda,No mention of medication
+616,self-harm,Mentioned considering wiping themselves down with baby wipes and calling themselves clean,No mention of self-harm
+617,support,Asked for support from others,No mention of seeking support
+618,tone,Depressed and hopeless,Anxious and uncertain
+619,content,"Daily struggles with depression, feeling trapped, and suicidal thoughts",Concerns about a partner's potential infidelity
+620,language,"Uses phrases like 'maddening feeling', 'break down', 'crawl back into bed', and 'ending my existence'","Uses phrases like 'stressed', 'don't have any real reason to be', and 'even though'"
+621,purpose,Expressing feelings of desperation and seeking an escape from daily struggles,Seeking reassurance or validation about a personal issue
+622,emotional state,Describes a state of hopelessness and despair,Describes a state of anxiety and uncertainty
+623,specifics,"Mentions daily routine, thoughts of suicide, and mind-numbing activities",Mentions a specific issue with a partner and a lack of concrete evidence
